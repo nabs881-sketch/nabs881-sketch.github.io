@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.nabs881_sketch.twa",
-    "sha256_cert_fingerprints": ["83:BB:B6:17:7E:7A:C0:55:DC:61:5E:19:4E:6B:41:80:7E:D6:FD:D3:0D:91:EA:25:BE:96:F2:EF:12:41:0C:2B"]
+    "sha256_cert_fingerprints": ["FA:21:82:A3:B3:4E:A9:F2:6E:D7:70:C0:FB:0B:B9:C8:B2:00:CE:DB:92:61:A7:E7:79:57:76:D9:59:7D:7F:13"]
   }
 }]
